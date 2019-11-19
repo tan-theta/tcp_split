@@ -1,5 +1,5 @@
 # tcp_split
-A tool written in C that splits a large pcap file into multiple pcap files where each pcap file contains a single tcp connection and are ordered by timestamp.
+A tool written in C and bash that splits a large pcap file into multiple pcap files where each pcap file contains a single tcp connection and are ordered by timestamp.
 
 ## Installation
 
